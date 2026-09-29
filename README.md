@@ -24,7 +24,7 @@ I'm a Computer Science Engineering student who enjoys learning by building.
 * 🌱 Currently learning **Data Structures & Algorithms, C++, HTML & CSS**
 * 💻 Exploring **Web Development** and practical software projects
 * 🔨 I enjoy turning ideas into working projects and improving them along the way
-* 🧠 Interested in problem solving, development and learning new technologies
+* 🧠 Interested in **problem solving, software development and new technologies**
 * 🏏 Fun fact: **I can talk about cricket for hours.**
 
 ---
@@ -42,8 +42,8 @@ I'm a Computer Science Engineering student who enjoys learning by building.
 ### Web & Tools
 
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" alt="HTML5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" alt="CSS3"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" alt="Git"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="45" height="45" alt="Linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="50" height="50" alt="MySQL"/>
@@ -51,7 +51,7 @@ I'm a Computer Science Engineering student who enjoys learning by building.
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Project
 
 ### 🏪 Local Business Hub
 
@@ -59,9 +59,11 @@ A project focused on helping local businesses discover useful information and op
 
 **Tech:** HTML • CSS • JavaScript
 
-<a href="https://github.com/tanujrawat-07/local-business-hub">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanujrawat-07&repo=local-business-hub&theme=github_dark&hide_border=true" alt="Local Business Hub"/>
-</a>
+<p>
+  <a href="https://github.com/tanujrawat-07/local-business-hub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanujrawat-07&repo=local-business-hub&hide_border=true" alt="Local Business Hub"/>
+  </a>
+</p>
 
 > More projects will be added here as I build and publish them.
 
@@ -70,8 +72,8 @@ A project focused on helping local businesses discover useful information and op
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanujrawat-07&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" alt="Tanuj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujrawat-07&layout=compact&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tanujrawat-07&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanujrawat-07&layout=compact&langs_count=8&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -88,27 +90,6 @@ A project focused on helping local businesses discover useful information and op
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=tanujrawat-07&hide_border=true&area=true" alt="GitHub Contribution Activity Graph" />
-</p>
-
----
-
-## ⭐ GitHub Overview
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=tanujrawat-07&theme=github_dark" alt="GitHub Profile Details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tanujrawat-07&theme=github_dark" alt="Repositories Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=tanujrawat-07&theme=github_dark" alt="Most Commit Language" />
-</p>
-
----
-
-## 📌 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tanujrawat-07&show_icons=true&hide_border=true&show=reviews,prs_merged,prs_merged_percentage" alt="GitHub Activity" />
 </p>
 
 ---
